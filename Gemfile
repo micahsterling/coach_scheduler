@@ -44,4 +44,3 @@ gem 'http'
 gem 'rack-cors'
 gem 'jb'
 
-gem 'bootstrap-sass'
